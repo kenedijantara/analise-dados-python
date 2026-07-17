@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Credenciais
+.env
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+
+# Arquivos de dados
+*.zip
+*.csv
+
+# VS Code
+.vscode/
